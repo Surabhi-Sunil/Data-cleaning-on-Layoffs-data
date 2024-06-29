@@ -1,3 +1,9 @@
+-- From the dataset, I have tried 4 things to clean the data
+-- 1. check for duplicate rows and remove if any
+-- 2. standardizing the data
+-- 3. checking null and empty values
+-- 4. removing rows/columns that are not necessary
+
 SELECT * FROM a.layoffs;
 
 -- 1. remove duplicates if any
